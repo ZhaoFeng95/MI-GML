@@ -4,7 +4,7 @@ MI-GML code used for the experiments in the ICMR 2021 paper.
 ## Installing the environment
     # Install dgl https://docs.dgl.ai/install/index.html
     
-## Downloading the data
+## Running MI-GML
    You may execute a full training run of the  model through  `MI_GML_train.py`
    
  
